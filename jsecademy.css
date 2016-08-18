@@ -1,0 +1,95 @@
+/* SWATCHES ---------------------------------------------------------------------- */
+
+span.cm-builtin     { color: #12b6fc; }
+span.cm-def			{ color: #12b6fc; }
+span.cm-header      { color: #12b6fc; }
+span.cm-meta		{ color: #12b6fc; }
+span.cm-operator	{ color: #12b6fc; }
+span.cm-qualifier	{ color: #12b6fc; }
+
+span.cm-atom		{ color: #008fff; }
+span.cm-link		{ color: #008fff; }
+span.cm-number		{ color: #008fff; }
+span.cm-string		{ color: #008fff; }
+span.cm-string-2    { color: #008fff; }
+span.cm-variable-2	{ color: #008fff; }
+span.cm-variable-3	{ color: #008fff; }
+
+span.cm-bracket		{ color: #3098dc; }
+span.cm-tag			{ color: #3098dc; }
+
+span.cm-attribute	{ color: #2c3e50; }
+span.cm-property	{ color: #2c3e50; } /* property after string */
+
+span.cm-comment		{ color: #e84c3c; }
+span.cm-error		{ color: #e84c3c; }
+span.cm-keyword		{ color: #3098dc; }
+span.cm-variable	{ color: #5eb0e3; }
+
+
+/* MISC ---------------------------------------------------------------------- */
+
+.CodeMirror {
+    line-height: 1.2;
+}
+
+.CodeMirror-scroll {
+	background: #fff;
+	color: #2c3e50;
+}
+
+.CodeMirror-cursor {
+	border-left: 1px solid #000 !important;
+}
+
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-bottom: 1px solid #000 !important;
+    border-left: none !important;
+}
+
+.CodeMirror-gutters {
+	background: #fff;
+	border-right: 1px solid #e6eff4;
+}
+
+.CodeMirror-linenumber {
+	color: #2c2b27;
+}
+
+.CodeMirror-selected {}
+
+/* Active Line */
+
+.CodeMirror-activeline-background {
+	background: #12b6fc !important;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+	color: #12b6fc;
+	background-color: transparent !important;
+}
+
+/* Matching Brackets and Tags */
+
+.CodeMirror-matchingbracket {
+    background: #e84c3c !important;
+    color: #000 !important;
+}
+
+.CodeMirror-matchingtag {
+    background: #e84c3c !important;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-nonmatchingbracket {
+	color: #e84c3c !important;
+}
+
+/* Non-editor styling */
+#image-holder,
+#not-editor {
+    background-color: #fff;
+}
+
+#image-holder {
+    color: #2c3e50;
+}

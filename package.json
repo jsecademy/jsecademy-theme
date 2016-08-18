@@ -1,0 +1,20 @@
+{
+    "title": "JSecademy",
+    "name": "jsecademy",
+    "description": "Flat minimalistic light theme for Brackets",
+    "version": "1.0",
+    "author": "Rick (https://codewithintent.com)",
+    "homepage": "https://www.jsecademy.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jsecademy/jsecademy-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "jsecademy.css",
+        "dark": false
+    }
+}
