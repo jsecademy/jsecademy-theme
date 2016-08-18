@@ -4,4 +4,4 @@
 Flat minimalistic light theme for Brackets
 
 ## JavaScript
-![JS Screenshot](https://raw.githubusercontent.com/jsecademy/jsecademy-theme/master/screenshots/javascript.png)
+![JS Screenshot](https://raw.githubusercontent.com/jsecademy/jsecademy-theme/master/screenshots/javascript.gif)
