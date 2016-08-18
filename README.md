@@ -4,4 +4,4 @@
 Flat minimalistic light theme for Brackets
 
 ## JavaScript
-![JS Screenshot](https://github.com/Brackets-Themes/Coolwater/blob/master/screenshots/js.png)
+![JS Screenshot](https://raw.githubusercontent.com/jsecademy/jsecademy-theme/master/screenshots/js.png)
