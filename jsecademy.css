@@ -22,7 +22,7 @@ span.cm-attribute	{ color: #2c3e50; }
 
 span.cm-property	{ color: #2c3e50; } /* property after string */
 
-span.cm-comment		{ color: #e84c3c; }
+span.cm-comment		{ color: #E5E5E5; }
 span.cm-error		{ color: #e84c3c; }
 span.cm-keyword		{ color: #3098dc; }
 span.cm-variable	{ color: #314b4c; }
@@ -62,19 +62,19 @@ span.cm-variable	{ color: #314b4c; }
 /* Active Line */
 
 .CodeMirror-activeline-background {
-	background: #12b6fc !important;
+	background: #2E657C !important;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
-	color: #12b6fc;
+	color: #2E657C;
 	background-color: transparent !important;
 }
 
 /* Matching Brackets and Tags */
 
 .CodeMirror-matchingbracket {
-    background: #e84c3c !important;
-    color: #000 !important;
+    color: #2FC944 !important;
+    background: none !important;
 }
 
 .CodeMirror-matchingtag {
